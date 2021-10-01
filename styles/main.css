@@ -147,9 +147,7 @@ main {
 @media (min-width: 37.5rem) {
   main {
     width: 28.125rem;
-  }
-  #headImage img {
-    height: 15.75rem;
+    margin: 104px auto;
   }
   #details {
     margin: 2.5rem 4.5rem 3.375rem;
